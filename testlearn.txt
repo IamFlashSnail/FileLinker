@@ -1,1 +1,3 @@
 what did the git working
+
+it is a distributed version system
